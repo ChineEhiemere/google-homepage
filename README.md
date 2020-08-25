@@ -1,1 +1,1 @@
-This is the Google-Homepage Project from Project Odin. During this project I will demonstrated my ability to use the command line, git and git hub as well as Chrome the developer tools that I will use to reconstruct the exisitng webpage
+This is the Google-Homepage Project from Project Odin. During this project I will demonstrate my ability to use the command line, git, git hub and the Chrome developer tools by deconstructing and rebuilding an existing webpage.
